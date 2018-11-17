@@ -1,1 +1,0 @@
-This project is made on python and is a Smart Dictionary which will give you correct answer even if you typed slighlty spelling wrong
